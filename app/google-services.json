@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351479527449",
+    "project_id": "vu-quiz-app-fed43",
+    "storage_bucket": "vu-quiz-app-fed43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351479527449:android:db6c27e70d4e79cde6d288",
+        "android_client_info": {
+          "package_name": "com.saif.vuquizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351479527449-i4i5nd8uh1gqqv3nfe5lqbppq77g9h8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw8-jHkVUGqA_xB6QUNttlnLLbNwwqEw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351479527449-i4i5nd8uh1gqqv3nfe5lqbppq77g9h8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
